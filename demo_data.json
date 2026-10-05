@@ -1,0 +1,38 @@
+{
+  "recording": null,
+  "demos": {
+    "mms": {
+      "photos": [
+        "AgACAgUAAxkBAAMtarGCGcRPoI-aP2yqBq0fMrxyJiMAAjIOaxukNNlUnLgSG-u7-wMBAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAAMuarGCGTLKKD8O2Okowd5X-TIL8jIAAjMOaxukNNlU2nWbK2lWIS0BAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAAMvarGCGfyRKBVtAZR_vhkUZI6I8m8AAjQOaxukNNlUsYv2cWYd9ogBAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAAMwarGCGVf0seuklGVZVCW8AmheGK8AAjcOaxukNNlUOtFkGtR5B80BAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAAMxarGCGRggg5BrRs36kJkdwHKbnIIAAlUOaxvfQjBV5uJqwUMJ3uUBAAMCAAN5AAM9BA"
+      ],
+      "videos": [
+        "BAACAgUAAxkBAAM3arGCI1xhBTmRV2Mn7NvPQgc5VxEAArUpAALrBbFUQqkQx9m89JI9BA",
+        "BAACAgUAAxkBAAM4arGCI5hr4pVdX7eAO37rtQROH8AAArcpAALrBbFUa9Zhhy1rg8c9BA",
+        "BAACAgUAAxkBAAM5arGCIyRrcEg_hp6b2xP1O9Vw62gAArkpAALrBbFU7TGLmlBEiYw9BA",
+        "BAACAgUAAxkBAAM6arGCI8EkwA_QVRp5j4fsbt8OLdEAArgpAALrBbFUyNCVpTOYKy49BA"
+      ]
+    },
+    "cheap": {
+      "photos": [],
+      "videos": []
+    },
+    "CHILD": {
+      "photos": [
+        "AgACAgUAAxkBAANCarGCS84e3O-o5XULlhQvmm0Wor8AAugRaxvrBbFUMH4gfWZqC4sBAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAANDarGCS-yh63uNxxmBprAVQlWwg58AAusRaxvrBbFUpqXCVR-s-GUBAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAANEarGCSxfSVHeIBNJQV3bIbrc2NrgAAhMPaxt9cNhVqKgN97LNaMMBAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAANFarGCSy063CZ7669xIllU6Gf_z70AAiQRaxvTV9lVkJejkYmNycQBAAMCAAN5AAM9BA",
+        "AgACAgUAAxkBAANGarGCS1fJjXLiYoTRqMQkwO7urbgAAhUPaxt9cNhVUg82OU0oe6kBAAMCAAN5AAM9BA"
+      ],
+      "videos": [
+        "BAACAgUAAxkBAANMarGCUyEWnB30Fa8806h8tX1sTScAAtIfAALrBblUqG-EX5JrkMU9BA",
+        "BAACAgUAAxkBAANNarGCU6u0G6LG6-lyJ7_ytqa1VGEAAs4fAALrBblUFJrDgITdWxY9BA",
+        "BAACAgUAAxkBAANOarGCU4F3KrBXo198MUvO3ahz3qwAAs8fAALrBblU8GJzYEFj7dA9BA"
+      ]
+    }
+  }
+}

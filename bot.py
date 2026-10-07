@@ -65,7 +65,7 @@ PACKAGES = {
     "ALL 20 GROUPS": {
         "name": "ALL 20 GROUPS",
         "button": "ALL 20 GROUPS ₹299",
-        "price": "₹399",
+        "price": "₹299",
         "videos": "30K 𝑽𝑰𝑫𝑬𝑶𝑺",
          "links": "LINK 1 :-\nhttps://t.me/+ZmF_OZvdTK85MTM1 2 :-\nhttps://t.me/addlist/W15N-haki0QyNWNl",
     },
